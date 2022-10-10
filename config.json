@@ -1,12 +1,14 @@
 {
     "ssoEnabled": false,
     "ssoDiscoveryUrl": "https://example.com",
-    "standalone": false,
-    "standaloneProtocol": "neo4j",
+    "standalone": true,
+    "standaloneProtocol": "bolt",
     "standaloneHost": "localhost",
     "standalonePort": "7687",
     "standaloneDatabase": "neo4j",
-    "standaloneDashboardName": "My Dashboard",
+    "standaloneDashboardName": "ESG Analysis Dashboard",
+    "standaloneUsername": "iqra",
+    "standalonePassword": "iqra"
     "standaloneDashboardDatabase": "dashboards",
     "standaloneDashboardURL": ""
 }
