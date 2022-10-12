@@ -8,5 +8,5 @@
     "standaloneDatabase": "neo4j",
     "standaloneDashboardName": "ESG Analysis Dashboard",
     "standaloneDashboardDatabase": "neo4j",
-    "standaloneDashboardURL": ""
+    "standaloneDashboardURL": "bolt://localhost:7687"
 }
