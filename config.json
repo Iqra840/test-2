@@ -7,8 +7,6 @@
     "standalonePort": "7687",
     "standaloneDatabase": "neo4j",
     "standaloneDashboardName": "ESG Analysis Dashboard",
- 
-
     "standaloneDashboardDatabase": "neo4j",
     "standaloneDashboardURL": ""
 }
