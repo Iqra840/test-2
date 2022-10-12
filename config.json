@@ -8,6 +8,6 @@
     "standaloneDatabase": "neo4j",
     "standaloneDashboardName": "ESG Analysis Dashboard",
 
-    "standaloneDashboardDatabase": "dashboards",
+    "standaloneDashboardDatabase": "neo4j",
     "standaloneDashboardURL": ""
 }
