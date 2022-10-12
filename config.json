@@ -7,8 +7,7 @@
     "standalonePort": "7687",
     "standaloneDatabase": "neo4j",
     "standaloneDashboardName": "ESG Analysis Dashboard",
-    "standaloneUsername" : "iqra",
-    "standalonePassword" : "iqra",
+ 
 
     "standaloneDashboardDatabase": "neo4j",
     "standaloneDashboardURL": ""
