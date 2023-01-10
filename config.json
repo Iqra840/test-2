@@ -6,6 +6,7 @@
     "standaloneHost": "d09df188.databases.neo4j.io",
     "standalonePort": "7687",
     "standaloneDatabase": "neo4j",
+    "standaloneDashboardName": " ",
  
     "standaloneDashboardDatabase": "neo4j",
     "standaloneDashboardURL": ""
