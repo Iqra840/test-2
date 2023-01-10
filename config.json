@@ -3,10 +3,10 @@
     "ssoDiscoveryUrl": "https://example.com",
     "standalone": true,
     "standaloneProtocol": "neo4j",
-    "standaloneHost": "6f03b010.databases.neo4j.io",
+    "standaloneHost": "2ccd7aea.databases.neo4j.io",
     "standalonePort": "7687",
     "standaloneDatabase": "neo4j",
-    "standaloneDashboardName": "ESG Analysis Dashboard",
+ 
     "standaloneDashboardDatabase": "neo4j",
     "standaloneDashboardURL": ""
 }
